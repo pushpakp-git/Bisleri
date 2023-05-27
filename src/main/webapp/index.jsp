@@ -1,9 +1,7 @@
 <html>
 <body>
 <h2>
-  Samajhdar sirf Bisleri Pite hai..!
-  Thando Thando, Saaf Saaf Pani..!
-  Piyo Bisleriii....!!! :-)
+  Samajhdar sirf Bisleri Pite hai..!!!!
   </h2>
 </body>
 </html>
