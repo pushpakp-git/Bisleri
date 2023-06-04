@@ -10,7 +10,7 @@ pipeline {
 						
 			stage('Build') {
 						steps {
-							sh '/home/pushpak/Documents/DevOps-Tools/apache-maven-3.9.1/mvn install'
+							sh '/home/pushpak/Documents/DevOps-Tools/apache-maven-3.9.1/bin/mvn install'
 							}
 						}
 						
